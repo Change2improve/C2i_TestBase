@@ -15,13 +15,11 @@ Para referenciar a otro Issue o Pull Request utiliza # o Username/Repository#
 Para referenciar a un Commit pega el SHA, User@SHA, o Username/Repository@SHA_
 -->
 
-<!-- IMP
   ## **(IMP) Definición de una mejora**
   ### Descripción de la mejora:
     Descripción
   ### Requisitos necesarios y notas sobre la posible implementación:
     Notas
-IMP -->
 
 <!-- NEW
   ## **(NEW) Definición de una nueva funcionalidad**
