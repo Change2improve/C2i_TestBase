@@ -9,29 +9,29 @@
 - [ ] ➁ Importancia / Prioridad: ⭐️⭐️ Muy alta ⭐️ Alta 💩 Baja
 
 # **Tipo de Issue (IMP/NEW/BUG)**
-<!--
+<!-- NOTA
 _Para referenciar a otro desarrollador utiliza @
 Para referenciar a otro Issue o Pull Request utiliza # o Username/Repository#
 Para referenciar a un Commit pega el SHA, User@SHA, o Username/Repository@SHA_
 -->
 
-<!--
+<!-- IMP
   ## **(IMP) Definición de una mejora**
   ### Descripción de la mejora:
     Descripción
   ### Requisitos necesarios y notas sobre la posible implementación:
     Notas
--->
+IMP -->
 
-<!--
+<!-- NEW
   ## **(NEW) Definición de una nueva funcionalidad**
   ### Descripción de la nueva funcionalidad:
     Descripción
   ### Requisitos necesarios y notas sobre la posible implementación:
     Notas
--->
+NEW -->
 
-<!--
+<!-- BUG 
   ## **(BUG) Definición de un nuevo Bug**
   ### Comportamiento esperado:
     Comportamiento_Esperado
@@ -43,10 +43,9 @@ Para referenciar a un Commit pega el SHA, User@SHA, o Username/Repository@SHA_
     Datos
   ### Pasos para reproducir el bug o archivo de ejemplo:
     - Pasos 
--->
+BUG -->
 
-# **Datos complementarios**
-<!-- 
+<!-- NOTA
 Para añadir un enlace utiliza [enlace](url)
 Para añadir código utiliza `codigo`
 Para añadir código con colores utiliza
@@ -54,12 +53,14 @@ Para añadir código con colores utiliza
 // Código con colores
 codigo = 3;
 ```
--->
-<!--
+NOTA -->
+
+<!-- DATOS
+# **Datos complementarios**
   ## Capturas de pantalla, imágenes, archivos:
   ## Enlaces con información adicional: 
   ## Código de referencia: 
   # **Listado preliminar de tareas**
   - [ ] Tarea1
--->
+DATOS -->
 ---
