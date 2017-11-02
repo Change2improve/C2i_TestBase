@@ -13,7 +13,7 @@
 _Para referenciar a otro desarrollador utiliza @
 Para referenciar a otro Issue o Pull Request utiliza # o Username/Repository#
 Para referenciar a un Commit pega el SHA, User@SHA, o Username/Repository@SHA_
--->
+NOTA -->
 
 <!-- IMP Eliminar línea
   ## **(IMP) Definición de una mejora**
