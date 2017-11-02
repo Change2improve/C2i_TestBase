@@ -15,33 +15,35 @@ Para referenciar a otro Issue o Pull Request utiliza # o Username/Repository#
 Para referenciar a un Commit pega el SHA, User@SHA, o Username/Repository@SHA_
 -->
 
+<!-- IMP Eliminar línea
   ## **(IMP) Definición de una mejora**
   ### Descripción de la mejora:
-    Descripción
+  Descripción
   ### Requisitos necesarios y notas sobre la posible implementación:
-    Notas
+  Notas
+IMP Eliminar línea -->
 
-<!-- NEW
+<!-- NEW Eliminar línea
   ## **(NEW) Definición de una nueva funcionalidad**
   ### Descripción de la nueva funcionalidad:
-    Descripción
+  Descripción
   ### Requisitos necesarios y notas sobre la posible implementación:
-    Notas
-NEW -->
+  Notas
+NEW Eliminar línea -->
 
-<!-- BUG 
+<!-- BUG Eliminar línea
   ## **(BUG) Definición de un nuevo Bug**
   ### Comportamiento esperado:
-    Comportamiento_Esperado
+  Comportamiento_Esperado
   ### Comportamiento observado:
-    Comportamiento_observado
+  Comportamiento_observado
   ### Datos de versión y configuración necesarios:
-    Datos
+  Datos
   ### Detalle de la excepción o log de error:
     Datos
   ### Pasos para reproducir el bug o archivo de ejemplo:
     - Pasos 
-BUG -->
+BUG Eliminar línea -->
 
 <!-- NOTA
 Para añadir un enlace utiliza [enlace](url)
@@ -53,12 +55,12 @@ codigo = 3;
 ```
 NOTA -->
 
-<!-- DATOS
+<!-- DATOS Eliminar línea
 # **Datos complementarios**
   ## Capturas de pantalla, imágenes, archivos:
   ## Enlaces con información adicional: 
   ## Código de referencia: 
   # **Listado preliminar de tareas**
   - [ ] Tarea1
-DATOS -->
+DATOS Eliminar línea -->
 ---
