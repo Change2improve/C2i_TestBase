@@ -1,6 +1,6 @@
 # **Título**
 
-- [ ] ✍ Título = PR (IMP/NEW/BUG) & Repositorio - Descripción corta
+- [ ] ✍ Título = PR (IMP/NEW/BUG) Descripción corta
 
 # **General**
 - [ ] 웃 Asignar desarrollador
